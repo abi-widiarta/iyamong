@@ -828,7 +828,7 @@ export default function Home() {
           style={{ clipPath: 'circle(0% at 50% 50%)' }}
           className="circle-reveal absolute z-50 top-0 left-0 w-full h-full bg-gray-900 p-4 overflow-scroll overflow-x-hidden"
         >
-          <div className="w-full relative max-w-md mx-auto min-h-[3500px] overflow-x-hidden overflow-y-auto">
+          <div className="w-full relative max-w-md mx-auto min-h-[3800px] overflow-x-hidden overflow-y-auto">
             {/* hero */}
             <img
               className="hero-img-4 absolute top-0 scale-125 left-[20px] opacity-0"
