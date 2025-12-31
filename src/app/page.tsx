@@ -223,7 +223,7 @@ export default function Home() {
           end: '+=500',
           toggleActions: 'play none none none',
           once: true,
-          markers: true, // Set to true for debugging
+          markers: false, // Set to true for debugging
         },
       });
 
